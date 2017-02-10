@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "file": "microposts.css",
+  "sources": [
+    "microposts.scss"
+  ],
+  "mappings": "",
+  "names": []
+}
